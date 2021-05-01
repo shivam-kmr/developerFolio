@@ -48,7 +48,6 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    
     {
       skillName: "Vue JS",
       fontAwesomeClassname: "fab fa-vuejs"
@@ -160,7 +159,7 @@ const workExperiences = {
       company: "Cremica Foods",
       companylogo: require("./assets/images/cremicaLogo.png"),
       date: "Jun 2017 – July 2017",
-      desc: "Configuration of EXSi Host, Resource Management and Monitoring",        
+      desc: "Configuration of EXSi Host, Resource Management and Monitoring"
     },
     {
       role: "IT Intern",
@@ -168,7 +167,7 @@ const workExperiences = {
       companylogo: require("./assets/images/pepsiLogo.png"),
       date: "Jun 2016 – July 2016",
       desc:
-        "Used Cisco Network Assistant to map different geographical plants to have optimal data transfers.",
+        "Used Cisco Network Assistant to map different geographical plants to have optimal data transfers."
     }
   ]
 };
