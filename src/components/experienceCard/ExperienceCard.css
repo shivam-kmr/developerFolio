@@ -8,7 +8,7 @@
 
 .experience-card-dark {
   position: relative;
-  background-color: #171c28;
+  background-color: #2c2d2e;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   border-radius: 10px;
   border: 1px solid rgba(211, 211, 211, 0.397);
@@ -77,7 +77,7 @@
 
 .experience-roundedimg {
   position: absolute;
-  object-fit: cover;
+  object-fit: scale-down;
   left: 0;
   right: 0;
   top: 7rem;
